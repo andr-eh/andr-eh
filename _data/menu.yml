@@ -54,7 +54,8 @@ entries:
   - title: avi
     entries:
       - title: lamaa
-        url: https://lamaa.org
+        url: https://www.fchampalimaud.org/news/lamaa-courses-are-here
+#        url: https://lamaa.org
       - title: talk I
         url: https://youtu.be/Ma-gyy-rm0Q
       - title: talk II
